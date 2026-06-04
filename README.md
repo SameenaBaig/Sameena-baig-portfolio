@@ -64,7 +64,7 @@ Currently on parental leave and using the time to go deep on what's next: **agen
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameenabaig)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameena1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sameena.banu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-b85c38?style=flat&logo=vercel&logoColor=white)](#)
 
